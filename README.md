@@ -49,7 +49,3 @@ cd test-cases
 py funtion_tests.py
 py system_tests.py
 ```
-
-## License
-
-MIT License - See LICENSE file for details 
