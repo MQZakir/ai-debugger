@@ -32,12 +32,6 @@ source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## Project Structure
-
-- `ender-debugger/` - Main application code
-- `test-cases/` - Test suite for functional and system testing
-- `model-training/` - LLM fine-tuning scripts
-
 ## Usage
 
 1. Start the main application:
