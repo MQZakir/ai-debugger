@@ -40,12 +40,3 @@ cd ender-debugger && npm run start # On powershell: cd ender-debugger; npm run s
 ```
 
 2. Access the web interface at `http://localhost:3000`
-
-## Testing
-
-Run the test suite:
-```bash
-cd test-cases
-py funtion_tests.py
-py system_tests.py
-```
